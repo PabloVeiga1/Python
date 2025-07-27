@@ -1,17 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b042f24f-2da0-4625-bcfd-9adaec0c69cf" name="Changes" comment="" />
+    <list default="true" id="b042f24f-2da0-4625-bcfd-9adaec0c69cf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Curso/Tuplas/072.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Tuplas/073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Tuplas/074.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Tuplas/075.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Tuplas/076.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Tuplas/077.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/Tuplas/pratica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questoes INICIAIS - Listas/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questoes INICIAIS - Listas/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questoes INICIAIS - Listas/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questoes INICIAIS - Listas/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questoes INICIAIS - Listas/ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questoes INICIAIS - Listas/ex06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questoes INICIAIS - Listas/ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questoes INICIAIS - Listas/ex08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questoes INICIAIS - Listas/ex09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questoes INICIAIS - Listas/ex10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questoes INICIAIS - Listas/ex11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questoes INICIAIS - Listas/ex15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/Tuplas/ex72.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/Tuplas/ex73.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/Tuplas/ex74.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Questoes OBI 2 fase/q12024.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="302hmu5ZNFW7VXmDI3CO1VbxBaC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,7 +62,29 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.072.executor": "Run",
+    "Python.073.executor": "Run",
+    "Python.074.executor": "Run",
+    "Python.075.executor": "Run",
+    "Python.076.executor": "Run",
+    "Python.077.executor": "Run",
+    "Python.ex01.executor": "Run",
+    "Python.ex02.executor": "Run",
+    "Python.ex03.executor": "Run",
+    "Python.ex04.executor": "Run",
+    "Python.ex05.executor": "Run",
+    "Python.ex06.executor": "Run",
+    "Python.ex07.executor": "Run",
+    "Python.ex08.executor": "Run",
+    "Python.ex09.executor": "Run",
+    "Python.ex10.executor": "Run",
+    "Python.ex11.executor": "Run",
+    "Python.ex15.executor": "Run",
+    "Python.ex72.executor": "Run",
+    "Python.pratica.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
